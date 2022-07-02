@@ -24,7 +24,7 @@ public class Searching{
 			System.out.println("Element found:");
 		}else {
 			
-		}
+		
 	}
 		
 	
